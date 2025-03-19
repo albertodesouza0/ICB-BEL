@@ -7,19 +7,28 @@ body
 }
 
 
-img{
-    backgrounsd: rgb(12, 12, 12);
+.logo{
+    background-color:;
     width: 150px;
 }
 .container{
     background-color: rgb(153, 153, 153);
-    ;
+    margin-top: -80px;
+    width: 1000px;
+    height: 80px;
 
 }
-h1, p{
+
+p{
+text-align: right;
+color:rgb(0, 0, 0);
+}
+
+
+h1{
     color: rgb(0, 0, 0);
     text-align: center;
-    ;
+    
 }
 
 
